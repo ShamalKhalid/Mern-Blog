@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    color: red;
+  }
+
+.border-b-2{
+  border-bottom: 2px;
+}
